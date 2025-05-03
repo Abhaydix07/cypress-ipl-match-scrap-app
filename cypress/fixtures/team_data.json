@@ -1,0 +1,1124 @@
+[
+  {
+    "matchOrder": "Match 51",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "dateTime": "MAY, FRI 2 , 7:30 pm IST",
+    "result": "Gujarat Titans Won by 38  Runs",
+    "homeTeam": {
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "isFirstBatting": true,
+      "score": "224/6",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "isFirstBatting": false,
+      "score": "186/6",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4191/tata-ipl-2025-match-51-gt-vs-srh-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/62294/ipl-2025-m51-gt-vs-srh---match-highlights"
+  },
+  {
+    "matchOrder": "Match 50",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "dateTime": "MAY, THU 1 , 7:30 pm IST",
+    "result": "Mumbai Indians Won by 100  Runs",
+    "homeTeam": {
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "isFirstBatting": false,
+      "score": "117",
+      "overs": "(16.1 OV)"
+    },
+    "awayTeam": {
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "isFirstBatting": true,
+      "score": "217/2",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4190/tata-ipl-2025-match-50-rr-vs-mi-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/62224/ipl-2025-m50-rr-vs-mi---match-highlights"
+  },
+  {
+    "matchOrder": "Match 49",
+    "venue": "MA Chidambaram Stadium, Chennai",
+    "dateTime": "APR, WED 30 , 7:30 pm IST",
+    "result": "Punjab Kings Won by 4  Wickets",
+    "homeTeam": {
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "isFirstBatting": true,
+      "score": "190",
+      "overs": "(19.2 OV)"
+    },
+    "awayTeam": {
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "isFirstBatting": false,
+      "score": "194/6",
+      "overs": "(19.4 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4188/tata-ipl-2025-match-49-csk-vs-pbks-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/62157/ipl-2025-m49-csk-vs-pbks---match-highlights"
+  },
+  {
+    "matchOrder": "Match 48",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "dateTime": "APR, TUE 29 , 7:30 pm IST",
+    "result": "Kolkata Knight Riders Won by 14  Runs",
+    "homeTeam": {
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "isFirstBatting": false,
+      "score": "190/9",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "isFirstBatting": true,
+      "score": "204/9",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4186/tata-ipl-2025-match-48-dc-vs-kkr-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/62067/ipl-2025-m48-dc-vs-kkr---match-highlights"
+  },
+  {
+    "matchOrder": "Match 47",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "dateTime": "APR, MON 28 , 7:30 pm IST",
+    "result": "Rajasthan Royals Won by 8   Wickets",
+    "homeTeam": {
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "isFirstBatting": false,
+      "score": "212/2",
+      "overs": "(15.5 OV)"
+    },
+    "awayTeam": {
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "isFirstBatting": true,
+      "score": "209/4",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4185/tata-ipl-2025-match-47-rr-vs-gt-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/61991/ipl-2025-m47-rr-vs-gt---match-highlights"
+  },
+  {
+    "matchOrder": "Match 46",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "dateTime": "APR, SUN 27 , 7:30 pm IST",
+    "result": "Royal Challengers Bengaluru Won by 6  Wickets",
+    "homeTeam": {
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "isFirstBatting": true,
+      "score": "162/8",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Royal Challengers Bengaluru",
+      "code": "RCB",
+      "isFirstBatting": false,
+      "score": "165/4",
+      "overs": "(18.3 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4184/tata-ipl-2025-match-46-dc-vs-rcb-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/61919/ipl-2025-m46-dc-vs-rcb---match-highlights"
+  },
+  {
+    "matchOrder": "Match 45",
+    "venue": "Wankhede Stadium, Mumbai",
+    "dateTime": "APR, SUN 27 , 3:30 pm IST",
+    "result": "Mumbai Indians Won by 54  Runs",
+    "homeTeam": {
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "isFirstBatting": true,
+      "score": "215/7",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "isFirstBatting": false,
+      "score": "161",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4182/tata-ipl-2025-match-45-mi-vs-lsg-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/61845/ipl-2025-m45-mi-vs-lsg---match-highlights"
+  },
+  {
+    "matchOrder": "Match 44",
+    "venue": "Eden Gardens, Kolkata",
+    "dateTime": "APR, SAT 26 , 7:30 pm IST",
+    "result": "No Result",
+    "homeTeam": {
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "isFirstBatting": false,
+      "score": "7/0",
+      "overs": "(1.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "isFirstBatting": true,
+      "score": "201/4",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4181/tata-ipl-2025-match-44-kkr-vs-pbks-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/61806/ipl-2025-m44-kkr-vs-pbks---match-highlights"
+  },
+  {
+    "matchOrder": "Match 43",
+    "venue": "MA Chidambaram Stadium, Chennai",
+    "dateTime": "APR, FRI 25 , 7:30 pm IST",
+    "result": "Sunrisers Hyderabad Won by 5  Wickets",
+    "homeTeam": {
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "isFirstBatting": true,
+      "score": "154",
+      "overs": "(19.5 OV)"
+    },
+    "awayTeam": {
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "isFirstBatting": false,
+      "score": "155/5",
+      "overs": "(18.4 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4180/tata-ipl-2025-match-43-csk-vs-srh-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/61741/ipl-2025-m43-csk-vs-srh---match-highlights"
+  },
+  {
+    "matchOrder": "Match 42",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "dateTime": "APR, THU 24 , 7:30 pm IST",
+    "result": "Royal Challengers Bengaluru Won by 11  Runs",
+    "homeTeam": {
+      "name": "Royal Challengers Bengaluru",
+      "code": "RCB",
+      "isFirstBatting": true,
+      "score": "205/5",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "isFirstBatting": false,
+      "score": "194/9",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4179/tata-ipl-2025-match-42-rcb-vs-rr-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/61660/ipl-2025-m42-rcb-vs-rr---match-highlights"
+  },
+  {
+    "matchOrder": "Match 41",
+    "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+    "dateTime": "APR, WED 23 , 7:30 pm IST",
+    "result": "Mumbai Indians Won by 7  Wickets",
+    "homeTeam": {
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "isFirstBatting": true,
+      "score": "143/8",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "isFirstBatting": false,
+      "score": "146/3",
+      "overs": "(15.4 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4178/tata-ipl-2025-match-41-srh-vs-mi-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/61596/ipl-2025-m41-srh-vs-mi---match-highlights"
+  },
+  {
+    "matchOrder": "Match 40",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "dateTime": "APR, TUE 22 , 7:30 pm IST",
+    "result": "Delhi Capitals Won by 8  Wickets",
+    "homeTeam": {
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "isFirstBatting": true,
+      "score": "159/6",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "isFirstBatting": false,
+      "score": "161/2",
+      "overs": "(17.5 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4176/tata-ipl-2025-match-40-lsg-vs-dc-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/61539/ipl-2025-m40-lsg-vs-dc---match-highlights"
+  },
+  {
+    "matchOrder": "Match 39",
+    "venue": "Eden Gardens, Kolkata",
+    "dateTime": "APR, MON 21 , 7:30 pm IST",
+    "result": "Gujarat Titans Won by 39  Runs",
+    "homeTeam": {
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "isFirstBatting": false,
+      "score": "159/8",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "isFirstBatting": true,
+      "score": "198/3",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4175/tata-ipl-2025-match-39-kkr-vs-gt-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/61484/ipl-2025-m39-kkr-vs-gt---match-highlights"
+  },
+  {
+    "matchOrder": "Match 38",
+    "venue": "Wankhede Stadium, Mumbai",
+    "dateTime": "APR, SUN 20 , 7:30 pm IST",
+    "result": "Mumbai Indians Won by 9  Wickets",
+    "homeTeam": {
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "isFirstBatting": false,
+      "score": "177/1",
+      "overs": "(15.4 OV)"
+    },
+    "awayTeam": {
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "isFirstBatting": true,
+      "score": "176/5",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4174/tata-ipl-2025-match-38-mi-vs-csk-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/61416/ipl-2025-m38-mi-vs-csk---match-highlights"
+  },
+  {
+    "matchOrder": "Match 37",
+    "venue": "New Chandigarh",
+    "dateTime": "APR, SUN 20 , 3:30 pm IST",
+    "result": "Royal Challengers Bengaluru Won by 7  Wickets",
+    "homeTeam": {
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "isFirstBatting": true,
+      "score": "157/6",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Royal Challengers Bengaluru",
+      "code": "RCB",
+      "isFirstBatting": false,
+      "score": "159/3",
+      "overs": "(18.5 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4173/tata-ipl-2025-match-37-pbks-vs-rcb-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/61359/ipl-2025-m37-pbks-vs-rcb---match-highlights"
+  },
+  {
+    "matchOrder": "Match 36",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "dateTime": "APR, SAT 19 , 7:30 pm IST",
+    "result": "Lucknow Super Giants Won by 2  Runs",
+    "homeTeam": {
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "isFirstBatting": false,
+      "score": "178/5",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "isFirstBatting": true,
+      "score": "180/5",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4172/tata-ipl-2025-match-36-rr-vs-lsg-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/61292/ipl-2025-m36-rr-vs-lsg---match-highlights"
+  },
+  {
+    "matchOrder": "Match 35",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "dateTime": "APR, SAT 19 , 3:30 pm IST",
+    "result": "Gujarat Titans Won by 7  Wickets",
+    "homeTeam": {
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "isFirstBatting": false,
+      "score": "204/3",
+      "overs": "(19.2 OV)"
+    },
+    "awayTeam": {
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "isFirstBatting": true,
+      "score": "203/8",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4170/tata-ipl-2025-match-35-gt-vs-dc-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/61230/ipl-2025-m35-gt-vs-dc---match-highlights"
+  },
+  {
+    "matchOrder": "Match 34",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "dateTime": "APR, FRI 18 , 7:30 pm IST",
+    "result": "Punjab Kings Won by 5  Wickets",
+    "homeTeam": {
+      "name": "Royal Challengers Bengaluru",
+      "code": "RCB",
+      "isFirstBatting": true,
+      "score": "95/9",
+      "overs": "(14.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "isFirstBatting": false,
+      "score": "98/5",
+      "overs": "(12.1 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4169/tata-ipl-2025-match-34-rcb-vs-pbks-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/61167/ipl-2025-m34-rcb-vs-pbks---match-highlights"
+  },
+  {
+    "matchOrder": "Match 33",
+    "venue": "Wankhede Stadium, Mumbai",
+    "dateTime": "APR, THU 17 , 7:30 pm IST",
+    "result": "Mumbai Indians Won by 4  Wickets",
+    "homeTeam": {
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "isFirstBatting": false,
+      "score": "166/6",
+      "overs": "(18.1 OV)"
+    },
+    "awayTeam": {
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "isFirstBatting": true,
+      "score": "162/5",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4167/tata-ipl-2025-match-33-mi-vs-srh-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/61105/ipl-2025-m33-mi-vs-srh---match-highlights"
+  },
+  {
+    "matchOrder": "Match 32",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "dateTime": "APR, WED 16 , 7:30 pm IST",
+    "result": "Delhi Capitals Won by Super Over",
+    "homeTeam": {
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "isFirstBatting": true,
+      "score": "188/5",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "isFirstBatting": false,
+      "score": "188/4",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4164/tata-ipl-2025-match-32-dc-vs-rr-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/61042/ipl-2025-m32-dc-vs-rr---match-highlights"
+  },
+  {
+    "matchOrder": "Match 31",
+    "venue": "New PCA Stadium, New Chandigarh",
+    "dateTime": "APR, TUE 15 , 7:30 pm IST",
+    "result": "Punjab Kings Won by 16  Runs",
+    "homeTeam": {
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "isFirstBatting": true,
+      "score": "111",
+      "overs": "(15.3 OV)"
+    },
+    "awayTeam": {
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "isFirstBatting": false,
+      "score": "95",
+      "overs": "(15.1 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4163/tata-ipl-2025-match-31-pbks-vs-kkr-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/60965/ipl-2025-m31-pbks-vs-kkr---match-highlights"
+  },
+  {
+    "matchOrder": "Match 30",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "dateTime": "APR, MON 14 , 7:30 pm IST",
+    "result": "Chennai Super Kings Won by 5  Wickets",
+    "homeTeam": {
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "isFirstBatting": true,
+      "score": "166/7",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "isFirstBatting": false,
+      "score": "168/5",
+      "overs": "(19.3 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4162/tata-ipl-2025-match-30-lsg-vs-csk-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/60895/ipl-2025-m30-lsg-vs-csk---match-highlights"
+  },
+  {
+    "matchOrder": "Match 29",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "dateTime": "APR, SUN 13 , 7:30 pm IST",
+    "result": "Mumbai Indians Won by 12  Runs",
+    "homeTeam": {
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "isFirstBatting": false,
+      "score": "193",
+      "overs": "(19.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "isFirstBatting": true,
+      "score": "205/5",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4159/tata-ipl-2025-match-29-dc-vs-mi-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/60819/ipl-2025-m29-dc-vs-mi---match-highlights"
+  },
+  {
+    "matchOrder": "Match 28",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "dateTime": "APR, SUN 13 , 3:30 pm IST",
+    "result": "Royal Challengers Bengaluru Won by 9  Wickets",
+    "homeTeam": {
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "isFirstBatting": true,
+      "score": "173/4",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Royal Challengers Bengaluru",
+      "code": "RCB",
+      "isFirstBatting": false,
+      "score": "175/1",
+      "overs": "(17.3 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4158/tata-ipl-2025-match-28-rr-vs-rcb-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/60757/ipl-2025-m28-rr-vs-rcb---match-highlights"
+  },
+  {
+    "matchOrder": "Match 27",
+    "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+    "dateTime": "APR, SAT 12 , 7:30 pm IST",
+    "result": "Sunrisers Hyderabad Won by 8  Wickets",
+    "homeTeam": {
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "isFirstBatting": false,
+      "score": "247/2",
+      "overs": "(18.3 OV)"
+    },
+    "awayTeam": {
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "isFirstBatting": true,
+      "score": "245/6",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4157/tata-ipl-2025-match-27-srh-vs-pbks-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/60680/ipl-2025-m27-srh-vs-pbks---match-highlights"
+  },
+  {
+    "matchOrder": "Match 26",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "dateTime": "APR, SAT 12 , 3:30 pm IST",
+    "result": "Lucknow Super Giants Won by 6  Wickets",
+    "homeTeam": {
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "isFirstBatting": false,
+      "score": "186/4",
+      "overs": "(19.3 OV)"
+    },
+    "awayTeam": {
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "isFirstBatting": true,
+      "score": "180/6",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4156/tata-ipl-2025-match-26-lsg-vs-gt-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/60615/ipl-2025-m26-lsg-vs-gt---match-highlights"
+  },
+  {
+    "matchOrder": "Match 25",
+    "venue": "MA Chidambaram Stadium, Chennai",
+    "dateTime": "APR, FRI 11 , 7:30 pm IST",
+    "result": "Kolkata Knight Riders Won by 8  Wickets",
+    "homeTeam": {
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "isFirstBatting": true,
+      "score": "103/9",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "isFirstBatting": false,
+      "score": "107/2",
+      "overs": "(10.1 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4155/tata-ipl-2025-match-25-csk-vs-kkr-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/60556/ipl-2025-m25-csk-vs-kkr---match-highlights"
+  },
+  {
+    "matchOrder": "Match 24",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "dateTime": "APR, THU 10 , 7:30 pm IST",
+    "result": "Delhi Capitals Won by 6  Wickets",
+    "homeTeam": {
+      "name": "Royal Challengers Bengaluru",
+      "code": "RCB",
+      "isFirstBatting": true,
+      "score": "163/7",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "isFirstBatting": false,
+      "score": "169/4",
+      "overs": "(17.5 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4154/tata-ipl-2025-match-24-rcb-vs-dc-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/60500/ipl-2025-m24-rcb-vs-dc---match-highlights"
+  },
+  {
+    "matchOrder": "Match 23",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "dateTime": "APR, WED 9 , 7:30 pm IST",
+    "result": "Gujarat Titans Won by 58  Runs",
+    "homeTeam": {
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "isFirstBatting": true,
+      "score": "217/6",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "isFirstBatting": false,
+      "score": "159",
+      "overs": "(19.2 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4152/tata-ipl-2025-match-23-gt-vs-rr-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/60422/ipl-2025-m23-gt-vs-rr---match-highlights"
+  },
+  {
+    "matchOrder": "Match 22",
+    "venue": "New PCA Stadium, New Chandigarh",
+    "dateTime": "APR, TUE 8 , 7:30 pm IST",
+    "result": "Punjab Kings Won by 18  Runs",
+    "homeTeam": {
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "isFirstBatting": true,
+      "score": "219/6",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "isFirstBatting": false,
+      "score": "201/5",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4150/tata-ipl-2025-match-22-pbks-vs-csk-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/60353/ipl-2025-m22-pbks-vs-csk---match-highlights"
+  },
+  {
+    "matchOrder": "Match 19",
+    "venue": "Eden Gardens, Kolkata",
+    "dateTime": "APR, TUE 8 , 3:30 pm IST",
+    "result": "Lucknow Super Giants Won by 4  Runs",
+    "homeTeam": {
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "isFirstBatting": false,
+      "score": "234/7",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "isFirstBatting": true,
+      "score": "238/3",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4149/tata-ipl-2025-match-19-kkr-vs-lsg-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/60275/ipl-2025-m19-kkr-vs-lsg---match-highlights"
+  },
+  {
+    "matchOrder": "Match 21",
+    "venue": "Wankhede Stadium, Mumbai",
+    "dateTime": "APR, MON 7 , 7:30 pm IST",
+    "result": "Royal Challengers Bengaluru Won by 12  Runs",
+    "homeTeam": {
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "isFirstBatting": false,
+      "score": "209/9",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Royal Challengers Bengaluru",
+      "code": "RCB",
+      "isFirstBatting": true,
+      "score": "221/5",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4147/tata-ipl-2025-match-21-mi-vs-rcb-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/60193/ipl-2025-m21-mi-vs-rcb---match-highlights"
+  },
+  {
+    "matchOrder": "Match 20",
+    "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+    "dateTime": "APR, SUN 6 , 7:30 pm IST",
+    "result": "Gujarat Titans Won by 7  Wickets",
+    "homeTeam": {
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "isFirstBatting": true,
+      "score": "152/8",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "isFirstBatting": false,
+      "score": "153/3",
+      "overs": "(16.4 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4145/tata-ipl-2025-match-20-srh-vs-gt-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/60122/ipl-2025-m20-srh-vs-gt---match-highlights"
+  },
+  {
+    "matchOrder": "Match 18",
+    "venue": "New PCA Stadium, New Chandigarh",
+    "dateTime": "APR, SAT 5 , 7:30 pm IST",
+    "result": "Rajasthan Royals Won by 50  Runs",
+    "homeTeam": {
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "isFirstBatting": false,
+      "score": "155/9",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "isFirstBatting": true,
+      "score": "205/4",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4144/tata-ipl-2025-match-18-pbks-vs-rr-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/60061/ipl-2025-m18-pbks-vs-rr---match-highlights"
+  },
+  {
+    "matchOrder": "Match 17",
+    "venue": "MA Chidambaram Stadium, Chennai",
+    "dateTime": "APR, SAT 5 , 3:30 pm IST",
+    "result": "Delhi Capitals Won by 25  Runs",
+    "homeTeam": {
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "isFirstBatting": false,
+      "score": "158/5",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "isFirstBatting": true,
+      "score": "183/6",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4143/tata-ipl-2025-match-17-csk-vs-dc-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/60005/ipl-2025-m17-csk-vs-dc---match-highlights"
+  },
+  {
+    "matchOrder": "Match 16",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "dateTime": "APR, FRI 4 , 7:30 pm IST",
+    "result": "Lucknow Super Giants Won by 12  Runs",
+    "homeTeam": {
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "isFirstBatting": true,
+      "score": "203/8",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "isFirstBatting": false,
+      "score": "191/5",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4141/tata-ipl-2025-match-16-lsg-vs-mi-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/59948/ipl-2025-m16-lsg-vs-mi---match-highlights"
+  },
+  {
+    "matchOrder": "Match 15",
+    "venue": "Eden Gardens, Kolkata",
+    "dateTime": "APR, THU 3 , 7:30 pm IST",
+    "result": "Kolkata Knight Riders Won by 80  Runs",
+    "homeTeam": {
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "isFirstBatting": true,
+      "score": "200/6",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "isFirstBatting": false,
+      "score": "120",
+      "overs": "(16.4 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4140/tata-ipl-2025-match-15-kkr-vs-srh-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/59877/ipl-2025-m15-kkr-vs-srh---match-highlights"
+  },
+  {
+    "matchOrder": "Match 14",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "dateTime": "APR, WED 2 , 7:30 pm IST",
+    "result": "Gujarat Titans Won by 8  Wickets",
+    "homeTeam": {
+      "name": "Royal Challengers Bengaluru",
+      "code": "RCB",
+      "isFirstBatting": true,
+      "score": "169/8",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "isFirstBatting": false,
+      "score": "170/2",
+      "overs": "(17.5 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4139/tata-ipl-2025-match-14-rcb-vs-gt-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/59801/ipl-2025-m14-rcb-vs-gt---match-highlights"
+  },
+  {
+    "matchOrder": "Match 13",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "dateTime": "APR, TUE 1 , 7:30 pm IST",
+    "result": "Punjab Kings Won by 8  Wickets",
+    "homeTeam": {
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "isFirstBatting": true,
+      "score": "171/7",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "isFirstBatting": false,
+      "score": "177/2",
+      "overs": "(16.2 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4137/tata-ipl-2025-match-13-lsg-vs-pbks-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/59722/ipl-2025-m13-lsg-vs-pbks---match-highlights"
+  },
+  {
+    "matchOrder": "Match 12",
+    "venue": "Wankhede Stadium, Mumbai",
+    "dateTime": "MAR, MON 31 , 7:30 pm IST",
+    "result": "Mumbai Indians Won by 8  Wickets",
+    "homeTeam": {
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "isFirstBatting": false,
+      "score": "121/2",
+      "overs": "(12.5 OV)"
+    },
+    "awayTeam": {
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "isFirstBatting": true,
+      "score": "116",
+      "overs": "(16.2 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4136/tata-ipl-2025-match-12-mi-vs-kkr-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/59648/ipl-2025-m12-mi-vs-kkr---match-highlights"
+  },
+  {
+    "matchOrder": "Match 11",
+    "venue": "ACA Stadium, Guwahati",
+    "dateTime": "MAR, SUN 30 , 7:30 pm IST",
+    "result": "Rajasthan Royals Won by 6  Runs",
+    "homeTeam": {
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "isFirstBatting": true,
+      "score": "182/9",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "isFirstBatting": false,
+      "score": "176/6",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4134/tata-ipl-2025-match-11-rr-vs-csk-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/59579/ipl-2025-m11-rr-vs-csk---match-highlights"
+  },
+  {
+    "matchOrder": "Match 10",
+    "venue": "Dr YS Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+    "dateTime": "MAR, SUN 30 , 3:30 pm IST",
+    "result": "Delhi Capitals Won by 7  Wickets",
+    "homeTeam": {
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "isFirstBatting": false,
+      "score": "166/3",
+      "overs": "(16.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "isFirstBatting": true,
+      "score": "163",
+      "overs": "(18.4 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4133/tata-ipl-2025-match-10-dc-vs-srh-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/59506/ipl-2025-m10-dc-vs-srh---match-highlights"
+  },
+  {
+    "matchOrder": "Match 9",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "dateTime": "MAR, SAT 29 , 7:30 pm IST",
+    "result": "Gujarat Titans Won by 36  Runs",
+    "homeTeam": {
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "isFirstBatting": true,
+      "score": "196/8",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "isFirstBatting": false,
+      "score": "160/6",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4131/tata-ipl-2025-match-09-gt-vs-mi-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/59437/ipl-2025-m09-gt-vs-mi---match-highlights"
+  },
+  {
+    "matchOrder": "Match 8",
+    "venue": "MA Chidambaram Stadium, Chennai",
+    "dateTime": "MAR, FRI 28 , 7:30 pm IST",
+    "result": "Royal Challengers Bengaluru Won by 50  Runs",
+    "homeTeam": {
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "isFirstBatting": false,
+      "score": "146/8",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Royal Challengers Bengaluru",
+      "code": "RCB",
+      "isFirstBatting": true,
+      "score": "196/7",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4130/tata-ipl-2025-match-08-csk-vs-rcb-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/59365/ipl-2025-m08-csk-vs-rcb---match-highlights"
+  },
+  {
+    "matchOrder": "Match 7",
+    "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+    "dateTime": "MAR, THU 27 , 7:30 pm IST",
+    "result": "Lucknow Super Giants Won by 5  Wickets",
+    "homeTeam": {
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "isFirstBatting": true,
+      "score": "190/9",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "isFirstBatting": false,
+      "score": "193/5",
+      "overs": "(16.1 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4128/tata-ipl-2025-match-07-srh-vs-lsg-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/59293/ipl-2025-m07-srh-vs-lsg---match-highlights"
+  },
+  {
+    "matchOrder": "Match 6",
+    "venue": "ACA Stadium, Guwahati",
+    "dateTime": "MAR, WED 26 , 7:30 pm IST",
+    "result": "Kolkata Knight Riders Won by 8  Wickets",
+    "homeTeam": {
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "isFirstBatting": true,
+      "score": "151/9",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "isFirstBatting": false,
+      "score": "153/2",
+      "overs": "(17.3 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4127/tata-ipl-2025-match-06-rr-vs-kkr-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/59213/ipl-2025-m06-rr-vs-kkr---match-highlights"
+  },
+  {
+    "matchOrder": "Match 5",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "dateTime": "MAR, TUE 25 , 7:30 pm IST",
+    "result": "Punjab Kings Won by 11  Runs",
+    "homeTeam": {
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "isFirstBatting": false,
+      "score": "232/5",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "isFirstBatting": true,
+      "score": "243/5",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4126/tata-ipl-2025-match-05-gt-vs-pbks-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/59134/ipl-2025-m05-gt-vs-pbks---match-highlights"
+  },
+  {
+    "matchOrder": "Match 4",
+    "venue": "Dr YS Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+    "dateTime": "MAR, MON 24 , 7:30 pm IST",
+    "result": "Delhi Capitals Won by 1  Wicket",
+    "homeTeam": {
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "isFirstBatting": false,
+      "score": "211/9",
+      "overs": "(19.3 OV)"
+    },
+    "awayTeam": {
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "isFirstBatting": true,
+      "score": "209/8",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4125/tata-ipl-2025-match-04-dc-vs-lsg-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/59037/ipl-2025-m04-dc-vs-lsg---match-highlights"
+  },
+  {
+    "matchOrder": "Match 3",
+    "venue": "MA Chidambaram Stadium, Chennai",
+    "dateTime": "MAR, SUN 23 , 7:30 pm IST",
+    "result": "Chennai Super Kings Won by 4  Wickets",
+    "homeTeam": {
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "isFirstBatting": false,
+      "score": "158/6",
+      "overs": "(19.1 OV)"
+    },
+    "awayTeam": {
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "isFirstBatting": true,
+      "score": "155/9",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4124/tata-ipl-2025-match-03-csk-v-mi-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/58946/ipl-2025-m03-csk-vs-mi---match-highlights"
+  },
+  {
+    "matchOrder": "Match 2",
+    "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+    "dateTime": "MAR, SUN 23 , 3:30 pm IST",
+    "result": "Sunrisers Hyderabad Won by 44  Runs",
+    "homeTeam": {
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "isFirstBatting": true,
+      "score": "286/6",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "isFirstBatting": false,
+      "score": "242/6",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4123/tata-ipl-2025-match-02-srh-v-rr-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/58864/ipl-2025-m02-srh-vs-rr---match-highlights"
+  },
+  {
+    "matchOrder": "Match 1",
+    "venue": "Eden Gardens, Kolkata",
+    "dateTime": "MAR, SAT 22 , 7:30 pm IST",
+    "result": "Royal Challengers Bengaluru Won by 7  Wickets",
+    "homeTeam": {
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "isFirstBatting": true,
+      "score": "174/8",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Royal Challengers Bengaluru",
+      "code": "RCB",
+      "isFirstBatting": false,
+      "score": "177/3",
+      "overs": "(16.2 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4121/tata-ipl-2025-match-01-kkr-v-rcb-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/58794/ipl-2025-m01-kkr-vs-rcb---match-highlights"
+  }
+]
