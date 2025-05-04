@@ -1,5 +1,70 @@
 [
   {
+    "matchOrder": "Match 54",
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamshala",
+    "dateTime": "MAY, SUN 4 , 7:30 pm IST",
+    "result": "Punjab Kings Won by 37  Runs",
+    "homeTeam": {
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "isFirstBatting": true,
+      "score": "236/5",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "isFirstBatting": false,
+      "score": "199/7",
+      "overs": "(20.0 OV )"
+    },
+    "highlightsLink": "https://www.iplt20.com/video/62522/ipl-2025-m54-pbks-vs-lsg---match-highlights"
+  },
+  {
+    "matchOrder": "Match 53",
+    "venue": "Eden Gardens, Kolkata",
+    "dateTime": "MAY, SUN 4 , 3:30 pm IST",
+    "result": "Kolkata Knight Riders Won by 1  Run",
+    "homeTeam": {
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "isFirstBatting": true,
+      "score": "206/4",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "isFirstBatting": false,
+      "score": "205/8",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4194/tata-ipl-2025-match-53-kkr-vs-rr-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/62442/ipl-2025-m53-kkr-vs-rr---match-highlights"
+  },
+  {
+    "matchOrder": "Match 52",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "dateTime": "MAY, SAT 3 , 7:30 pm IST",
+    "result": "Royal Challengers Bengaluru Won by 2  Runs",
+    "homeTeam": {
+      "name": "Royal Challengers Bengaluru",
+      "code": "RCB",
+      "isFirstBatting": true,
+      "score": "213/5",
+      "overs": "(20.0 OV)"
+    },
+    "awayTeam": {
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "isFirstBatting": false,
+      "score": "211/5",
+      "overs": "(20.0 OV )"
+    },
+    "matchReportLink": "https://www.iplt20.com/news/4192/tata-ipl-2025-match-52-rcb-vs-csk-match-report",
+    "highlightsLink": "https://www.iplt20.com/video/62367/ipl-2025-m52-rcb-vs-csk---match-highlights"
+  },
+  {
     "matchOrder": "Match 51",
     "venue": "Narendra Modi Stadium, Ahmedabad",
     "dateTime": "MAY, FRI 2 , 7:30 pm IST",
@@ -1120,70 +1185,5 @@
     },
     "matchReportLink": "https://www.iplt20.com/news/4121/tata-ipl-2025-match-01-kkr-v-rcb-match-report",
     "highlightsLink": "https://www.iplt20.com/video/58794/ipl-2025-m01-kkr-vs-rcb---match-highlights"
-  },
-  {
-    "matchOrder": "Match 54",
-    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamshala",
-    "dateTime": "MAY, SUN 4 , 7:30 pm IST",
-    "result": "Punjab Kings Won by 37  Runs",
-    "homeTeam": {
-      "name": "Punjab Kings",
-      "code": "PBKS",
-      "isFirstBatting": true,
-      "score": "236/5",
-      "overs": "(20.0 OV)"
-    },
-    "awayTeam": {
-      "name": "Lucknow Super Giants",
-      "code": "LSG",
-      "isFirstBatting": false,
-      "score": "199/7",
-      "overs": "(20.0 OV )"
-    },
-    "highlightsLink": "https://www.iplt20.com/video/62522/ipl-2025-m54-pbks-vs-lsg---match-highlights"
-  },
-  {
-    "matchOrder": "Match 53",
-    "venue": "Eden Gardens, Kolkata",
-    "dateTime": "MAY, SUN 4 , 3:30 pm IST",
-    "result": "Kolkata Knight Riders Won by 1  Run",
-    "homeTeam": {
-      "name": "Kolkata Knight Riders",
-      "code": "KKR",
-      "isFirstBatting": true,
-      "score": "206/4",
-      "overs": "(20.0 OV)"
-    },
-    "awayTeam": {
-      "name": "Rajasthan Royals",
-      "code": "RR",
-      "isFirstBatting": false,
-      "score": "205/8",
-      "overs": "(20.0 OV )"
-    },
-    "matchReportLink": "https://www.iplt20.com/news/4194/tata-ipl-2025-match-53-kkr-vs-rr-match-report",
-    "highlightsLink": "https://www.iplt20.com/video/62442/ipl-2025-m53-kkr-vs-rr---match-highlights"
-  },
-  {
-    "matchOrder": "Match 52",
-    "venue": "M Chinnaswamy Stadium, Bengaluru",
-    "dateTime": "MAY, SAT 3 , 7:30 pm IST",
-    "result": "Royal Challengers Bengaluru Won by 2  Runs",
-    "homeTeam": {
-      "name": "Royal Challengers Bengaluru",
-      "code": "RCB",
-      "isFirstBatting": true,
-      "score": "213/5",
-      "overs": "(20.0 OV)"
-    },
-    "awayTeam": {
-      "name": "Chennai Super Kings",
-      "code": "CSK",
-      "isFirstBatting": false,
-      "score": "211/5",
-      "overs": "(20.0 OV )"
-    },
-    "matchReportLink": "https://www.iplt20.com/news/4192/tata-ipl-2025-match-52-rcb-vs-csk-match-report",
-    "highlightsLink": "https://www.iplt20.com/video/62367/ipl-2025-m52-rcb-vs-csk---match-highlights"
   }
 ]

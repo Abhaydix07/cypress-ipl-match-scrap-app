@@ -65,42 +65,15 @@ describe('IPL Website Test', () => {
             }; 
             arrOfObj.push(newObj);
         }).then(() => {
-            cy.readFile('cypress/fixtures/team_data.json', { timeout: 10000 }).then((existingData = []) => {
+            cy.readFile('cypress/fixtures/team_data.json').then((existingData) => {
                 console.log(existingData, 'Existing team data');
-    console.log(arrOfObj, 'Newly scraped data');
-
-    // Filter only NEW matches that do NOT exist in existingData
-    const newMatches = arrOfObj.filter(
-      newItem => !existingData.some(existingItem => existingItem.matchOrder === newItem.matchOrder)
-    );
-
-    // Send Telegram message for each new match
-    newMatches.forEach(match => {
-      const message = `🏏 *New Match Update!*\n\n` +
-        `*${match.homeTeam.name} vs ${match.awayTeam.name}*\n` +
-        `📍 Venue: ${match.venue}\n🕒 ${match.dateTime}\n📊 Result: ${match.result}\n` +
-        `[Match Report](${match.matchReportLink}) | [Highlights](${match.highlightsLink})`;
-
-      cy.request({
-        method: 'POST',
-        url: `https://api.telegram.org/bot8064793125:AAHbWbXDjsCWt1hBdTBUHK7NztvpWwAPCwM/sendMessage`,
-        body: {
-          chat_id: '-4730818470',
-          text: message,
-          parse_mode: 'Markdown',
-          disable_web_page_preview: false
-        }
-      });
-    });
-
-    // ✅ Combine old + new matches, avoiding duplicates
-    const updatedData = [
-      ...existingData,
-      ...newMatches
-    ];
-
-    cy.writeFile('cypress/fixtures/team_data.json', JSON.stringify(updatedData, null, 2));
-    cy.log('New matches sent to Telegram and file updated.');
+              
+                // New data you want to write
+                console.log(arrOfObj, 'arrOfObj');
+              
+                // Write new data to the same file
+                cy.writeFile('cypress/fixtures/team_data.json', JSON.stringify(arrOfObj, null, 2));
+                cy.log('Team data has been written to team_data.json');
               });
         });
     })
