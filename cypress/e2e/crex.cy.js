@@ -95,6 +95,18 @@ describe('CREX Cricket Website Test', () => {
                                 }
                             }
 
+                            if(allOverUpdates.length == 0){
+                                const resultText = $body.find('.team-result .result-box .font3').text().trim();
+                                if (resultText) {
+                                    const resultObj = { result: resultText };
+                                    allOverUpdates.push(resultObj);
+                                    // resultFound = true; // Set flag to stop further polling
+
+                                    // Save to file immediately when result is found
+                                    cy.writeFile('cypress/results/overUpdates.json', allOverUpdates);
+                                }
+                            }
+
                             // Log all overs or result found in this poll
                             cy.log(`Overs/Result at poll [${i + 1}]: ${JSON.stringify(overUpdates)}`);
                             console.log(`Overs/Result at poll [${i + 1}]:`, overUpdates);
