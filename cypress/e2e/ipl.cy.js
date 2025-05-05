@@ -69,6 +69,30 @@ describe('IPL Website Test', () => {
                 console.log(existingData, 'Existing team data');
               
                 // New data you want to write
+                if(arrOfObj.length > existingData.length){
+
+                    const TELEGRAM_BOT_TOKEN = '8064793125:AAHbWbXDjsCWt1hBdTBUHK7NztvpWwAPCwM';
+                    const TELEGRAM_CHAT_ID = '-4730818470';
+                    const newMatch = arrOfObj[0];
+
+                const message = `🏏 *New Match Update!*\n\n` +
+                    `*${newMatch.homeTeam.name} vs ${newMatch.awayTeam.name}*\n` +
+                    `📍 Venue: ${newMatch.venue}\n🕒 ${newMatch.dateTime}\n📊 Result: ${newMatch.result}\n` +
+                    `[Match Report](${newMatch.matchReportLink}) | [Highlights](${newMatch.highlightsLink})`;
+
+                cy.request({
+                    method: 'POST',
+                    url: `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`,
+                    body: {
+                    chat_id: TELEGRAM_CHAT_ID,
+                    text: message,
+                    parse_mode: 'Markdown',
+                    disable_web_page_preview: false
+                    }
+                });
+                }
+
+
                 console.log(arrOfObj, 'arrOfObj');
               
                 // Write new data to the same file
